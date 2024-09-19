@@ -45,5 +45,5 @@ int main(int argc, char** argv) {
         return 1;
     }
 
-
+    CopyFile(input_path, output_path);
 }
