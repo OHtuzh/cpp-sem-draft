@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/tema-m/university/cpp-practice-draft/sem0/build/lib",
+  "command": "/usr/bin/clang++  -I/Users/tema-m/university/cpp-practice-draft/sem0/lib -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/copy_lib.dir/lib.cpp.o -c /Users/tema-m/university/cpp-practice-draft/sem0/lib/lib.cpp",
+  "file": "/Users/tema-m/university/cpp-practice-draft/sem0/lib/lib.cpp",
+  "output": "lib/CMakeFiles/copy_lib.dir/lib.cpp.o"
+},
+{
+  "directory": "/Users/tema-m/university/cpp-practice-draft/sem0/build/bin",
+  "command": "/usr/bin/clang++  -I/Users/tema-m/university/cpp-practice-draft/sem0 -I/Users/tema-m/university/cpp-practice-draft/sem0/lib -g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/copy-file.dir/main.cpp.o -c /Users/tema-m/university/cpp-practice-draft/sem0/bin/main.cpp",
+  "file": "/Users/tema-m/university/cpp-practice-draft/sem0/bin/main.cpp",
+  "output": "bin/CMakeFiles/copy-file.dir/main.cpp.o"
+}
+]

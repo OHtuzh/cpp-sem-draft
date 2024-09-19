@@ -1,0 +1,8 @@
+/Users/tema-m/university/cpp-practice-draft/sem0/build/CMakeFiles/edit_cache.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/CMakeFiles/rebuild_cache.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/lib/CMakeFiles/copy_lib.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/lib/CMakeFiles/edit_cache.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/bin/CMakeFiles/copy-file.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/bin/CMakeFiles/edit_cache.dir
+/Users/tema-m/university/cpp-practice-draft/sem0/build/bin/CMakeFiles/rebuild_cache.dir
